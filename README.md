@@ -1,2 +1,2 @@
 # Sales-Analysis
-![akm_final](https://github.com/Akshaya-Kumar-Maharana/Sales-Analysis/assets/99114572/81f6dfe9-989a-4710-a623-b7eedff8aa73)
+![sales_analysis](https://github.com/Akshaya-Kumar-Maharana/Sales-Analysis/assets/99114572/e4be559e-d3cc-4673-b599-0b91e8aee56c)
